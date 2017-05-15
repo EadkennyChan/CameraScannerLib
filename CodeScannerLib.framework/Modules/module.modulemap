@@ -1,0 +1,6 @@
+framework module CodeScannerLib {
+  umbrella header "CodeScannerLib.h"
+
+  export *
+  module * { export * }
+}
