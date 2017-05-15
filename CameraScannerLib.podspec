@@ -8,7 +8,7 @@ s.description  = "iOS library for scan code"
 s.homepage     = "https://github.com/EadkennyChan"
 s.license      = { :type => 'MIT', :file => 'LICENSE'}
 s.author           = { 'Eadkennychan' => 'Eadkennychan@gmail.com' }
-s.source           = { :svn => 'svn://localhost/ios_database_mine/Jiaguwen/iOS/SuperCode/CameraScannerLib', :tag => s.version.to_s }
+s.source           = { :git => 'https://github.com/EadkennyChan/CameraScannerLib.git', :tag => s.version.to_s }
 s.requires_arc = true
 s.platform     = :ios
 s.ios.deployment_target = '7.0'
